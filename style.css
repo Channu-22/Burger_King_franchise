@@ -1,0 +1,39 @@
+body{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+ }
+
+#OrderId {
+    position: fixed;
+    top:20px;
+    right: 50px;
+    font-size :32px;
+    color: red;
+}
+
+ .inputs {
+    margin-bottom: 20px;
+}
+
+input {
+    margin : 0px 5px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: none;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 30px;
+    color: white;
+}
